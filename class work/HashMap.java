@@ -12,7 +12,7 @@ public class HashMap {
         map.put(true, "d");
         map.put(56.7, "43");
         map.put(null, null);
-        // map.put(1,"3555");
+        
         System.out.println(map);
 
         HashMap<String, Integer>kvmap = new HashMap<String, Integer>();
